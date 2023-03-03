@@ -1,4 +1,3 @@
-// import '../../assets/img/logos/logo'
 import '../../assets/nav-bar/nav-bar.sass'
 
 const NavBar = () => {
@@ -9,7 +8,7 @@ const NavBar = () => {
             </div>
             <div className="right">
                 <a href="#about">about</a>
-                <a href="support">support</a>
+                <a href='#support'>support</a>
                 <a href="#profile">
                     <img src="" alt="" />
                 </a>
