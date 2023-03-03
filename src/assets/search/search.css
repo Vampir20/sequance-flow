@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+.search-main {
+  text-align: center;
+  color: yellow;
+}
+.search-main #search {
+  padding: 0 1%;
+  background-color: #FF3B15;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  height: 50px;
+  width: 30%;
+}
+.search-main ::-webkit-placeholder {
+  color: white;
+}/*# sourceMappingURL=search.css.map */

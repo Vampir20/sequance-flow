@@ -1,0 +1,26 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  height: 20%;
+  background-color: #232323;
+}
+.main .right {
+  margin-left: 88%;
+}
+.main .right p {
+  display: inline;
+  margin: 5px;
+  color: white;
+}
+.main .right a {
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+}
+.main .right a img {
+  margin-left: 10px;
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+}/*# sourceMappingURL=nav-bar.css.map */
